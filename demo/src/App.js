@@ -48,7 +48,7 @@ function App() {
             backgroundImage: `url("https://thumbor.forbes.com/thumbor/960x0/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f3492163525b22f2adbdc5c%2FPersian-Gulf-Tensions%2F960x0.jpg%3Ffit%3Dscale")`,
           }}
         >
-          <h1>Moonrake</h1>
+          <h1>Cool Demo</h1>
           <p>AUTOMATING AND INTEGRATING WELL-DEFINED SOLUTIONS.</p>
         </div>
         <div className="bottomSutff">
